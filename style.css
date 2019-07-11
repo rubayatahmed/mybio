@@ -1,0 +1,41 @@
+.content{
+    min-height: 280px;
+}
+
+.banner{padding-bottom: 150px;
+ margin-bottom: 0px;
+ padding-left: 100px;
+ padding-top: 100px;
+ color: black;
+ background: url("top11.png") no-repeat center;
+ background-size: 100%;
+ background-blend-mode: soft-light;
+ color: white;
+}
+
+.aboutme{
+    background-color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.skills{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+
+}
+
+ul{
+    text-align: center;
+    display: inline;
+    font-size: 25px;
+    color: grey;
+}
+
+.design{
+   min height: 500px;
+   margin-bottom: 5px;
+}
